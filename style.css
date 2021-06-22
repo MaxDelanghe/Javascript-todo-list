@@ -1,0 +1,43 @@
+h4{
+	border-bottom: 1px solid black;
+}
+
+#one{
+	background-color: Beige;
+}
+
+#two{
+	background-color: LightBlue;
+}
+
+#tree{
+	background-color: LightSeaGreen;
+}
+
+button{
+	margin: 5px;
+	border-radius: 12px;
+	cursor: pointer;
+}
+
+button:hover{background-color: LightGreen;}
+
+li{
+	list-style-type: '🔥';
+}
+
+#todoted li{
+	list-style-type: '\2714';
+}
+
+li:hover{
+	color: MintCream;
+}
+
+p{
+	padding: 5px;
+}
+
+.hover_red:hover{
+	background-color: LightCoral;
+}
